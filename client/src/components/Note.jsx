@@ -27,7 +27,7 @@ function Note(props) {
     <input type="checkbox" name="checkbox" value={props.id} onChange={handleUpdate}></input>
       <h1 style={{ textDecoration: status === 'completed' ? 'line-through' : 'none' }}>{props.title}</h1>
       <p>{props.content}</p>
-      <button onClick={handleClick}>DELETE</button>
+      <button onClick={handleClick}>DEL</button>
     </div>
   );
 }
