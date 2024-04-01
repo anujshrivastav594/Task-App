@@ -1,5 +1,7 @@
 ### Below are the few images of Frontend Task App.
 
+## Note: Here by clicking on checkboxex, we can change the status of task that is into complete /incomplete.
+
 ## Home Page
 ![image](https://github.com/anujshrivastav594/Task-App/assets/122456123/ed78a125-2e20-4339-af2d-09206715c1fb)
 
